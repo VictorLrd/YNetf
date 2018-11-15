@@ -1,9 +1,1 @@
-/.idea
-/node_modules
-.env
-/logs
-/dist
-
-
-package-lock.json
-npm-debug.log
+node_modules/
